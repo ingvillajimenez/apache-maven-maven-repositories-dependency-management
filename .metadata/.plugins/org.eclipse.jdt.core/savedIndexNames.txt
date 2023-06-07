@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/maven-repositories-dependency-management/.metadata/.plugins/org.eclipse.jdt.core
+1743726002.index
+2089250452.index
+1865797976.index
+109241207.index
